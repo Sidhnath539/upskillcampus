@@ -1,0 +1,2 @@
+& C:/Users/sidhn/AppData/Local/Programs/Python/Python314/python.exe c:/Users/sidhn/OneDrive/Desktop/quiz_game/quiz_game.py|100|2026-03-19 18:38
+& C:/Users/sidhn/AppData/Local/Programs/Python/Python314/python.exe c:/Users/sidhn/OneDrive/Desktop/quiz_game/quiz_game.py|30|2026-03-19 18:32
